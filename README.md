@@ -2,11 +2,17 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 0 problems · 1 labs · 0 math
+**2** solved · 1 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://zeusgod230.github.io/deep-ml/) to replay this filling in over time.
+
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-11-07 | [solution](problems/0016-feature-scaling-implementation) |
 
 ## Labs
 
